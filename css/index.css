@@ -1,0 +1,199 @@
+.body {
+    display: flex;
+    width: 70%;
+    margin-left: 10%;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+
+.left-column{
+    margin-left: 40px;
+    flex:1;
+    background-color:#191919;
+    color: white;
+
+}
+.right-column{
+    flex:3;
+    background-color: #ffffff;
+
+}
+.profile-image {
+    margin: 0%;
+}
+.Education hr{
+    height: 1px;
+        background-color: orange;
+        border: none;
+}
+
+.Reference hr{
+
+    height: 1px;
+        background-color: orange;
+        border: none;
+}
+.heading-white{
+padding-left: 20px;
+}
+
+.contact-head{
+    display: flex;
+}
+.contact-tell{
+    font-weight: 700;
+    width:100%;
+    padding: 5px 5px 5px 10px;
+    background-color: #303030;
+}
+
+.contact-content{
+
+    padding: 5px 5px 5px 30px;
+
+}
+.yellowhr{
+    padding-left: 20px;
+    align-items: end;
+    width:100%;
+}
+.yellow{
+    width: 60px;
+    height:32px;
+    background-color: orange;
+    margin-left: -20px;
+}
+.top-white{
+    height:100px;
+    width:100%;
+    background-color: white;
+}
+
+.name-div{
+    background-color:orange;
+    height:160px;
+    align-items: center;
+    width: 100%;
+    padding-top: 50px;
+    padding-left: 50px;
+
+}
+
+.Education{
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.Reference{
+    padding-left: 20px;
+    padding-top: 10px;
+
+}
+
+.contact{
+    padding-left: 20px;
+    padding-top: 10px;
+
+}
+.about-div{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.work-div{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.skills{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.about-div hr {
+    height:2px;
+    background-color: #808080;
+        border: none;
+
+}
+.work-div hr{
+    height:2px;
+    background-color: #808080;
+        border: none;
+}
+.skills hr{
+    height:2px;
+    background-color: #808080;
+        border: none;
+}
+
+.edContent{
+    padding-left: 20px;
+}
+.position{
+    font-size: large;
+    font-weight: 600;
+
+   
+}
+ .company{
+    font-weight: 600;
+
+ }
+ .graphout{
+    display: flex;
+    height: 4px;
+    background-color:orange;
+    width:100%;
+
+ }
+ .graphdata1{
+    height:4px;
+    background-color: #303030;
+    width:70%;
+
+ }
+ .graphdata2{
+    flex:5;
+    height:4px;
+    background-color: #303030;
+    width:60%;
+
+ }
+ .graphdata3{
+    flex:5;
+    height:4px;
+    background-color: #303030;
+    width:30%;
+
+ }
+ .graphdata4{
+    flex:5;
+    height:4px;
+    background-color: #303030;
+    width:85%;
+
+ }
+ .graphdata5{
+    flex:5;
+    height:4px;
+    background-color: #303030;
+    width:50%;
+
+ }
+ .graphdata6{
+    flex:5;
+    height:4px;
+    background-color: #303030;
+    width:75%;
+
+ }
+ .first-name{
+    font-size:xx-large;
+    font-weight: 700;
+     }
+    
+
+ .second-name{
+    font-size:xx-large;
+    font-weight: 400; }
+
+.name-title{
+    font-size:x-large;
+    font-weight: 400; }
